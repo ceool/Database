@@ -45,19 +45,18 @@
 
 <br>
 
-## SQL
-### SQL 명령문
+## SQL 명령문
  - 관계형 데이터 베이스 관리 시스템 관리 프로그래밍 언어
  - 표준언어는 모두 지원, 비표준은 특정 RDBMS에서만 지원
 
-## DDL
+### DDL
 Data Definition Language (데이터 정의어)
 - 테이블과 인덱스 구조를 관리하는 언어 (create,drop, alter 등)
 
-## DML
+### DML
 Data Manipulation Language (데이터 조작어)
  - 테이블 등에 데이터를 저장, 수정, 삭제, 추출 등을  처리하는 언어 (insert, update, delete, select 등)
 
-## DCL
+### DCL
 Data Control Language (데이터 제어어)
  - 사용자 권한, 작업의 취소 등을 처리할 수 있는 언어 (grant, revoke, commit, rollback 등)
